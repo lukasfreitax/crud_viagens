@@ -31,7 +31,7 @@ assets
 
 ### 3. Instalação do Sistema
 1. Copie a pasta `crud_viagens_lucas` para o diretório `htdocs` do XAMPP
-2. Acesse o sistema através do navegador: `http://localhost/crud_viagens_lucas`
+2. Acesse o sistema através do navegador: `http://localhost/lucas_freitas_viagens`
 
 ## Funcionalidades
 
@@ -84,7 +84,7 @@ assets
 - Design responsivo
 
 ## Como Usar
-1. Acesse `http://localhost/crud_viagens_lucas`
+1. Acesse `http://localhost/lucas_freitas_viagens`
 2. Visualize o dashboard com estatísticas
 3. Use o botão "✈️ Nova Viagem" para cadastrar pacotes
 4. Use os botões "✏️ Editar" e "🗑️ Excluir" na tabela para gerenciar os registros
